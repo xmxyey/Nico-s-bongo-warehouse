@@ -14,27 +14,23 @@
 /* =========================================================
    Nico's Bongo Warehouse Stable LTS
    Puppy Adjustable Edition
-
-   所有常改项目都在 CONFIG
-   只改数字 / 颜色即可
-
-   ========================================================= */
+ ========================================================= */
 
 /* ================= CONFIG ================= */
 
 const CONFIG = {
 
   /* ===== WINDOW ===== */
-  defaultWidth: 620,        // 面板默认宽度(px)
-  defaultHeightVH: 82,      // 面板高度(视窗%)
+  defaultWidth: 620,       
+  defaultHeightVH: 82,      
   minWidth: 420,
   minHeight: 460,
 
   /* ===== CARD ===== */
-  gridGap: 14,              // 卡片间距
-  cardRadius: 22,           // 卡片圆角
+  gridGap: 14,              
+  cardRadius: 22,           
   cardPadding: 10,
-  cardImageScale: 2,     // 普通卡图片大小
+  cardImageScale: 2,     
   cardNameSize: 8,
   cardQtySize: 15,
 
@@ -48,8 +44,8 @@ const CONFIG = {
   searchDebounce: 120,
 
   /* ===== FOCUS VIEW ===== */
-  focusWidth: 520,          // 聚焦卡片大小(px)
-  focusImageScale: 3.4,    // 聚焦图放大倍率
+  focusWidth: 520,          
+  focusImageScale: 3.4,    
   sparkCount: 18,
   sparkDuration: 2200,
 
@@ -62,14 +58,14 @@ const CONFIG = {
 
   /* ===== COLORS ===== */
   light:{
-    bg:"#F2E9E1",      // 大背景
-    card:"#FBF5EE",    // 卡片底色
-    line:"#D8C8BB",    // 边框线
-    text:"#5E4A43",    // 文字
-    accent:"#E8BEC8",  // 按钮高亮
-    alt:"#BFE2DF",     // 卡片交替背景
-    input:"#FFF8F1",   // 搜索框
-    divider:"#E2D4C8"  // 标题下分割线
+    bg:"#F2E9E1",      
+    card:"#FBF5EE",    
+    line:"#D8C8BB",    
+    text:"#5E4A43",   
+    accent:"#E8BEC8",  
+    alt:"#BFE2DF",    
+    input:"#FFF8F1",   
+    divider:"#E2D4C8"  
   },
 
   dark:{
