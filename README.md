@@ -4,7 +4,75 @@ Idk jst can't find a useful plugin to help with inventorys tacking to organzed m
 
 Then it became this ^ ^
 
-###### A personal Steam inventory userscript that escaped containment.
+###### A custom userscript for organizing Bongo Cat items on Steam because the default inventory UI felt like searching for a sock in a landfill.
+
+---
+
+
+<img width="6010" height="3385" alt="wfcx-nico" src="https://github.com/user-attachments/assets/3385e4a3-969a-42bc-9d39-1d2ee97057aa" />
+
+
+## What is this?
+
+Originally:
+
+> "I just want to sort my cats."
+
+Several questionable decisions later:
+
+* Custom gallery UI
+* Themes
+* Event completion tracking
+* Missing item collection mode
+* Search / filters / rarity sorting
+* Focus card display
+* Floating paw technology
+* Emotional attachment to digital cats
+
+---
+
+## Features
+
+* View your Bongo Cat inventory like it deserves dignity
+* Track event completion progress
+* See missing collectibles and suffer beautifully
+* Sort by rarity / event
+* Multiple themes for different moods
+* Fancy cards instead of warehouse sadness
+* Paw included
+
+---
+
+## Installation
+
+1. Install Tampermonkey
+2. Install script
+3. Open Steam inventory
+4. Wonder why this exists
+5. ~~Use daily~~
+
+---
+
+## Known Bugs
+
+* Scope creep
+* User keeps adding features
+* Sometimes the paw knows too much
+
+---
+
+## Roadmap
+
+* Fav tab
+* Trade board mode
+* Better collection completion tools
+* Even more unnecessary polish
+
+---
+
+## Disclaimer
+
+This project(?) was built with love, chaos, and extremely serious cat management priorities.
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⠤⠶⠖⠒⠒⠒⠒⠶⠦⢤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⠞⠋⠁⠀⠀⣀⣤⣤⣄⡀⠀⠀⠀⠀⠈⠉⠙⠶⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -34,6 +102,4 @@ Then it became this ^ ^
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠶⣶⣶⣤⣴⠶⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-<img width="6010" height="3385" alt="wfcx-nico" src="https://github.com/user-attachments/assets/3385e4a3-969a-42bc-9d39-1d2ee97057aa" />
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
