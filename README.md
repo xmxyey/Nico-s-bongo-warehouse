@@ -6,7 +6,6 @@ Then it became this ^ ^
 
 ###### A custom userscript for organizing Bongo Cat items on Steam because the default inventory UI felt like searching for a sock in a landfill.
 
----
 
 
 <img width="6010" height="3385" alt="wfcx-nico" src="https://github.com/user-attachments/assets/3385e4a3-969a-42bc-9d39-1d2ee97057aa" />
@@ -29,7 +28,6 @@ Several questionable decisions later:
 * Floating paw technology
 * Emotional attachment to digital cats
 
----
 
 ## Features
 
@@ -41,7 +39,6 @@ Several questionable decisions later:
 * Fancy cards instead of warehouse sadness
 * Paw included
 
----
 
 ## Installation
 
@@ -51,7 +48,7 @@ Several questionable decisions later:
 4. Wonder why this exists
 5. ~~Use daily~~
 
----
+
 
 ## Known Bugs
 
@@ -59,7 +56,7 @@ Several questionable decisions later:
 * User keeps adding features
 * Sometimes the paw knows too much
 
----
+
 
 ## Roadmap
 
@@ -68,7 +65,7 @@ Several questionable decisions later:
 * Better collection completion tools
 * Even more unnecessary polish
 
----
+
 
 ## Disclaimer
 
