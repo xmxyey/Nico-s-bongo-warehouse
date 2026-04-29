@@ -38,6 +38,8 @@ Several questionable decisions later:
 * Multiple themes for different moods
 * Fancy cards instead of warehouse sadness
 * Paw included
+<img width="3421" height="1954" alt="RDN" src="https://github.com/user-attachments/assets/a164d570-6844-4bed-8b13-8fd3e4cb925c" />
+
 
 
 ## Installation
